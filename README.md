@@ -1,8 +1,8 @@
-Calculator App
+## Calculator App
 
 A simple and intuitive calculator app built using Flutter. This app performs basic arithmetic operations and serves as a learning project for Flutter development.
 
-Features
+## Features
 
 
 1.Addition, subtraction, multiplication, and division operations
